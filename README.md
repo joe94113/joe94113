@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python and php Framework**
 
-- 📝 Blog made using githb and hugo [https://joe94113.github.io/](https://joe94113.github.io/)
+- 📝 Blog made using github and hugo [https://joe94113.github.io/](https://joe94113.github.io/)
 
 - 📫 How to reach me: **joe94113@gmail.com**
 
