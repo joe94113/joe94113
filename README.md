@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm joe，王冠智</h1>
 <h3 align="center">A passionate backend developer from Taiwan</h3>
 
-- 🌱 I’m currently learning **Python Flask and Django Framework**
+- 🌱 I’m currently learning **Python and php Framework**
 
 - 📝 I regularly write articles on [https://joe94113.github.io/](https://joe94113.github.io/)
 
