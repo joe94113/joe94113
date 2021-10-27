@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Laravel and JS**
 
-- 📝 Blog made using github and hugo [https://joe94113.github.io/](https://joe94113.github.io/)
+- 📝 My Blog [https://joe94113.github.io/](https://joe94113.github.io/)
 
 - 📄 My study notes [Hackmd](https://hackmd.io/@joe94113)
 
