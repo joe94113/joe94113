@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm joe，王冠智</h1>
+<h1 align="center">Hi<img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="30"/>, I'm joe，王冠智</h1>
 <h3 align="center">A passionate backend developer from Taiwan</h3>
 
 - 🌱 I’m currently learning **Laravel and JS**
