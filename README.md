@@ -27,4 +27,5 @@
 [![](https://raw.githubusercontent.com/joe94113/My-snapshot/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/joe94113/My-snapshot/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/joe94113/My-snapshot/master/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/joe94113/My-snapshot/master/profile-summary-card-output/dracula/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 <hr></hr>
-<img src="https://github.com/joe94113/joe94113/image/dino_rounded.gif?raw=true" href="https://github.com/joe94113" />
+
+<img src="https://github.com/joe94113/joe94113/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/joe94113" />
