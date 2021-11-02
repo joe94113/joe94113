@@ -1,16 +1,16 @@
 <h1 align="center">Hi<img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="30" />, I'm joe，王冠智</h1>
 <h3 align="center">A passionate backend developer from Taiwan <img src="https://github.com/joe94113/joe94113/blob/main/images/taipei-101.png" width="40" height="40" /></h3>
-<img width="15%" align="right" alt="Github Image" src="https://github.com/joe94113/joe94113/blob/main/images/linux_rounded.gif?raw=true" />
+<img width="20%" align="right" alt="Github Image" src="https://github.com/joe94113/joe94113/blob/main/images/linux_rounded.gif?raw=true" />
 
-- 🌱 I’m currently learning **Laravel and JS**
+- <img alt="GIF" src="https://github.com/joe94113/joe94113/blob/main/images/Developer.gif" width="25" /> I’m currently learning **Laravel and JS**
 
 - 📝 My Blog [https://joe94113.github.io/](https://joe94113.github.io/)
 
 - 📄 My study notes [Hackmd](https://hackmd.io/@joe94113)
 
-- 📫 How to reach me: **joe94113@gmail.com**
+- <img alt="GIF" src="https://github.com/joe94113/joe94113/blob/main/images/letterbox.gif" width="20" />&nbsp; How to reach me: **joe94113@gmail.com**
 
-- ⚡ Fun fact **I think I am easygoing**
+- <img alt="GIF" src="https://github.com/joe94113/joe94113/blob/main/images/lightning.gif" width="15" />&nbsp;&nbsp; Fun fact **I think I am easygoing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
