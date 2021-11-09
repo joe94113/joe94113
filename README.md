@@ -4,7 +4,7 @@
 
 - <img alt="GIF" src="https://github.com/joe94113/joe94113/blob/main/images/Developer.gif" width="25" /> I’m currently learning **Laravel and JS**
 
-- 📝 My Blog [https://joe94113.github.io/](https://joe94113.github.io/)
+- 📝 My Blog ☞[https://joe94113.github.io/](https://joe94113.github.io/)☜
 
 - 📄 My study notes [Hackmd](https://hackmd.io/@joe94113)
 
