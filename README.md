@@ -3,7 +3,7 @@
 <img width="20%" align="right" alt="Github Image" src="https://github.com/joe94113/joe94113/blob/main/images/linux_rounded.gif?raw=true" />
 
 - <img alt="GIF" src="https://github.com/joe94113/joe94113/blob/main/images/Developer.gif" width="25" /> I’m currently learning **Laravel and JS**
-
+[![wakatime](https://wakatime.com/badge/user/f63d68a0-70c7-4c5a-b195-67ee5fa63e84.svg)](https://wakatime.com/@f63d68a0-70c7-4c5a-b195-67ee5fa63e84)
 - 📝 My Blog ☞[https://joe94113.github.io/](https://joe94113.github.io/)☜
 
 - 📄 My study notes [Hackmd](https://hackmd.io/@joe94113)
