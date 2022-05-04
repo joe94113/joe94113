@@ -29,4 +29,7 @@
 [![](https://raw.githubusercontent.com/joe94113/My-snapshot/master/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/joe94113/My-snapshot/master/profile-summary-card-output/dracula/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 <hr></hr>
 
-<img src="https://github.com/joe94113/joe94113/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/joe94113" />
+<!-- <img src="https://github.com/joe94113/joe94113/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/joe94113" /> -->
+
+![github contribution grid snake animation](https://github.com/joe94113/joe94113/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://github.com/joe94113/joe94113/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
