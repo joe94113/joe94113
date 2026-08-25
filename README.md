@@ -16,7 +16,6 @@
 <p align="left">
 <a href="https://codepen.io/joe94113" target="blank"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="joe94113" /></a>
 <a href="https://kaggle.com/joe94113" target="blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="joe94113" /></a>
-<a href="https://instagram.com/guan___zhi" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="guan___zhi" /></a>
 <a href="https://www.leetcode.com/joe94113" target="blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="joe94113" /></a>
 <a href="https://discord.gg/joe94113#7598" target="blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="joe94113#7598" /></a>
 </p>
